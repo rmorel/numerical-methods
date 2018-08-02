@@ -3,4 +3,6 @@ Codes and notebooks with finite differences applied to geophysical problems
 
 [Transient heat equation for 1D homogeneous media](https://github.com/rmorel/numerical-methods/blob/master/Calor%20Transiente%201D.ipynb)
 
-[Transient heat equation for 2D homogeneous media](https://github.com/rmorel/numerical-methods/blob/master/Calor%20Transiente%202D.ipynb) (Unfortunately GitHub does not support the buit-in animations contained in this notebook)
+[Transient heat equation for 2D homogeneous media](https://github.com/rmorel/numerical-methods/blob/master/Calor%20Transiente%202D.ipynb) (Unfortunately GitHub rendering does not support the buit-in animations contained in this notebook)
+
+[Wave equation in 2D (simple grid and second order in time and space)](https://github.com/rmorel/numerical-methods/blob/master/Equa%C3%A7%C3%A3o%20de%20Onda%20Acustica%202D.ipynb) (Unfortunately GitHub rendering does not support the buit-in animations contained in this notebook)
