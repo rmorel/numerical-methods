@@ -10,3 +10,5 @@ Codes and notebooks with finite differences applied to geophysical problems
 * [Acoustic wave equation in 3D (simple grid and second order in time and fourth order in space w/ absorbing border)](https://github.com/rmorel/numerical-methods/blob/master/Equa%C3%A7%C3%A3o%20de%20onda%20acustica%203D.ipynb)
 
 * [French Model seismic data w/ 3D acoustic wave equation](https://github.com/rmorel/numerical-methods/blob/master/Modelo%20French.ipynb)
+
+* [Zero offset acoustic RTM w/ a simple model](https://github.com/rmorel/numerical-methods/blob/master/Reverse%20Time%20Migration%202D.ipynb)
